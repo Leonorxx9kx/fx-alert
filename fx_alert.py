@@ -7,7 +7,7 @@ import urllib.request
 # ===== 可以自行修改的設定 =====
 BASE_CURRENCY = "EUR"
 TARGET_CURRENCY = "HKD"
-ALERT_RATE = 1.30
+ALERT_RATE = 9.50
 # ============================
 
 
