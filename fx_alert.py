@@ -33,4 +33,3 @@ if not result.get("ok"):
     raise RuntimeError(f"Telegram 發送失敗：{result}")
 
 print("Telegram 測試訊息已成功發送。")
-
