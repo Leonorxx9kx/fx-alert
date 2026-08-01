@@ -20,4 +20,4 @@ jobs:
           python-version: "3.11"
 
       - name: Run Python script
-        run: python fx_alert.py
+        run: TELEGRAM_TOKEN TELEGRAM_CHAT_ID
